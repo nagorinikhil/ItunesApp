@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ItunesApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh List</string>
+    <string name="action_favorite">Favorites</string>
+    <string name="action_sort_increase">Sort Increasingly</string>
+    <string name="action_sort_decrease">Sort Decreasingly</string>
+    <string name="API_URL">https://itunes.apple.com/us/rss/toppaidapplications/limit=25/json</string>
+    <string name="Dialog_Title">Add to Favorites</string>
+    <string name="Dialog_Title1">Remove from Favorites</string>
+    <string name="Add_Favorite_Msg">Are you sure that you want to add this App to favorites?</string>
+    <string name="Remove_Favorite_Msg">Are you sure that you want to remove this App to favorites?</string>
+</resources>

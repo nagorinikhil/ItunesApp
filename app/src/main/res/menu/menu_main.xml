@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.itunesfavapp.itunesapp.Main2Activity" >
+    <item android:title="@string/action_refresh"
+        android:id="@+id/action_refresh" />
+    <item android:title="@string/action_favorite"
+        android:id="@+id/action_favorite" />
+    <item android:title="@string/action_sort_increase"
+        android:id="@+id/action_sort_increase" />
+    <item android:title="@string/action_sort_decrease"
+        android:id="@+id/action_sort_decrease" />
+</menu>
